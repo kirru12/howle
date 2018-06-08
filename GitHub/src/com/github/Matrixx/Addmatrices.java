@@ -16,6 +16,7 @@ array =new int[n];
 System.out.println("enter"+n+"integers");
 for(c=0;c<n;c++)
 {array[c]=in.nextInt();
+ fjgbcu7jvc nhy8i
 
 
 System.out.println("enter value to find ");
@@ -39,5 +40,5 @@ middle =(first +last)/2;
 	}		// TODO Auto-generated method stub
 
 	}
-
+h,dhmfujydtjh
 
